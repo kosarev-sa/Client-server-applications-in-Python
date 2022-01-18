@@ -1,0 +1,11 @@
+list_key:
+- value1
+- value2
+- value3
+- value4
+- value5
+int_key: 100
+dict_key:
+  price1: 50€
+  price2: 150€
+  price3: 300€
