@@ -1,0 +1,8 @@
+2022-01-31 20:31:51,147        CRITICAL             client_log_config    Критическая ошибка
+2022-01-31 20:31:51,147        ERROR                client_log_config    Ошибка
+2022-01-31 20:31:51,147        WARNING              client_log_config    Предупреждение
+2022-01-31 20:31:51,147        INFO                 client_log_config    Информационное сообщение
+2022-01-31 20:31:51,147        DEBUG                client_log_config    Отладочная информация
+2022-01-31 20:32:01,549        WARNING              client               server_address = DEFAULT_IP_ADDRESS, server_port = DEFAULT_PORT
+2022-01-31 20:32:01,565        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-01-31 20:32:01,565        INFO                 client               Ответ сервера: "200 : OK"
