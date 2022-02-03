@@ -1,0 +1,163 @@
+2022-02-01 17:12:10,273        WARNING              client               server_address = DEFAULT_IP_ADDRESS, server_port = DEFAULT_PORT
+2022-02-01 17:12:10,288        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-01 17:12:10,304        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-01 17:12:10,304        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-01 17:12:10,304        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 15:47:06,126        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:47:06,146        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:47:06,168        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:47:06,192        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:47:06,200        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:47:51,957        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:47:51,974        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:47:51,999        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:47:52,028        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:47:52,036        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:48:02,051        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:48:02,073        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:48:02,089        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:48:02,113        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:48:02,113        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:49:20,631        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:49:20,671        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:49:20,695        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:49:20,715        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:49:20,743        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:49:29,030        WARNING              client               server_address = DEFAULT_IP_ADDRESS, server_port = DEFAULT_PORT
+2022-02-03 15:49:29,046        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 15:49:29,115        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 15:49:29,115        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 15:49:29,115        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 15:50:53,085        WARNING              client2              server_address = DEFAULT_IP_ADDRESS, server_port = DEFAULT_PORT
+2022-02-03 15:50:53,101        DEBUG                client2              (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 15:50:53,101        INFO                 client2              Клиент соединился с сервером. Подключение успешно
+2022-02-03 15:50:53,117        DEBUG                client2              (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 15:50:53,117        INFO                 client2              Ответ сервера: "200 : OK"
+2022-02-03 15:57:02,024        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:57:02,045        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:57:02,068        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:57:02,085        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 15:57:02,100        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 16:01:13,461        ERROR                client               exit(1). Номер порта - число от 1024 до 65535
+2022-02-03 17:46:00,311        DEBUG                client               (log_dec) Вызвана функция: arg_parser. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,327        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,328        DEBUG                client               (log_dec) Вызвана функция: arg_parser. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,328        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,342        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 17:46:00,343        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,343        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 17:46:00,388        DEBUG                client               (log_dec) Вызвана функция: arg_parser. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,388        DEBUG                client               (log_dec) Вызвана функция: arg_parser. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,388        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,393        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,393        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 17:46:00,395        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,395        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 17:46:00,396        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 17:46:00,398        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,398        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 17:46:00,398        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 17:46:00,399        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,399        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 17:46:00,401        DEBUG                client               (log_dec) Вызвана функция: arg_parser. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,404        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,915        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 17:46:00,915        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:00,915        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 17:46:54,068        DEBUG                client               Подготовлены данные для сообщения: {'action': 'message', 'time': 1643899614.0685492, 'account_name': 'Guest', 'mess_text': 'Привет, друзья'}
+2022-02-03 17:46:54,068        DEBUG                client               (log_dec) Вызвана функция: create_msg. Параметры: (<socket.socket fd=416, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58854), raddr=('127.0.0.1', 7777)>,), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:54,115        INFO                 client               Получено сообщение от пользователя Guest:
+Привет, друзья
+2022-02-03 17:46:54,115        INFO                 client               Получено сообщение от пользователя Guest:
+Привет, друзья
+2022-02-03 17:46:54,115        INFO                 client               Получено сообщение от пользователя Guest:
+Привет, друзья
+2022-02-03 17:46:54,121        DEBUG                client               (log_dec) Вызвана функция: message_from_server. Параметры: ({'action': 'message', 'sender': 'Guest', 'time': 1643899614.115979, 'mess_text': 'Привет, друзья'},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:54,123        DEBUG                client               (log_dec) Вызвана функция: message_from_server. Параметры: ({'action': 'message', 'sender': 'Guest', 'time': 1643899614.115979, 'mess_text': 'Привет, друзья'},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:46:54,123        DEBUG                client               (log_dec) Вызвана функция: message_from_server. Параметры: ({'action': 'message', 'sender': 'Guest', 'time': 1643899614.115979, 'mess_text': 'Привет, друзья'},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:47:21,370        DEBUG                client               Подготовлены данные для сообщения: {'action': 'message', 'time': 1643899641.370095, 'account_name': 'Guest', 'mess_text': 'И от меня привет'}
+2022-02-03 17:47:21,370        DEBUG                client               (log_dec) Вызвана функция: create_msg. Параметры: (<socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58853), raddr=('127.0.0.1', 7777)>,), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:47:21,495        INFO                 client               Получено сообщение от пользователя Guest:
+И от меня привет
+2022-02-03 17:47:21,495        INFO                 client               Получено сообщение от пользователя Guest:
+И от меня привет
+2022-02-03 17:47:21,499        INFO                 client               Получено сообщение от пользователя Guest:
+И от меня привет
+2022-02-03 17:47:21,499        DEBUG                client               (log_dec) Вызвана функция: message_from_server. Параметры: ({'action': 'message', 'sender': 'Guest', 'time': 1643899641.4950578, 'mess_text': 'И от меня привет'},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:47:21,499        DEBUG                client               (log_dec) Вызвана функция: message_from_server. Параметры: ({'action': 'message', 'sender': 'Guest', 'time': 1643899641.4950578, 'mess_text': 'И от меня привет'},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:07,084        DEBUG                client               Подготовлены данные для сообщения: {'action': 'message', 'time': 1643899687.084679, 'account_name': 'Guest', 'mess_text': 'exit'}
+2022-02-03 17:48:07,084        DEBUG                client               (log_dec) Вызвана функция: create_msg. Параметры: (<socket.socket fd=416, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58854), raddr=('127.0.0.1', 7777)>,), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:07,147        INFO                 client               Получено сообщение от пользователя Guest:
+exit
+2022-02-03 17:48:07,147        DEBUG                client               (log_dec) Вызвана функция: message_from_server. Параметры: ({'action': 'message', 'sender': 'Guest', 'time': 1643899687.1472902, 'mess_text': 'exit'},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:26,258        ERROR                client               Соединение с сервером 127.0.0.1 было потеряно
+2022-02-03 17:48:44,619        DEBUG                client               (log_dec) Вызвана функция: arg_parser. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,635        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,651        DEBUG                client               (log_dec) Вызвана функция: arg_parser. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,651        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,651        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 17:48:44,651        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,651        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 17:48:44,666        DEBUG                client               (log_dec) Вызвана функция: arg_parser. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,666        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,666        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 17:48:44,666        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,666        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 17:48:44,666        DEBUG                client               (log_dec) Вызвана функция: arg_parser. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,666        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,676        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 17:48:44,676        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,676        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 17:48:44,676        DEBUG                client               (log_dec) Вызвана функция: arg_parser. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,676        DEBUG                client               (log_dec) Вызвана функция: create_presence_msg. Параметры: (), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,679        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 17:48:44,679        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:44,679        INFO                 client               Ответ сервера: "200 : OK"
+2022-02-03 17:48:45,192        INFO                 client               Клиент соединился с сервером. Подключение успешно
+2022-02-03 17:48:45,192        DEBUG                client               (log_dec) Вызвана функция: server_response_validator. Параметры: ({'response': 200},), {} 
+                                                                         Модуль вызова: __main__. Вызов из функции: main_func(). Вызов из функции: main_func
+2022-02-03 17:48:45,192        INFO                 client               Ответ сервера: "200 : OK"
